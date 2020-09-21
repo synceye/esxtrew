@@ -2,7 +2,7 @@ Config = {}
 
 Config.Locale = 'br'
 
-Config.serverLogo = 'https://i.imgur.com/AcgDL9f.png'
+Config.serverLogo = 'https://cdn.discordapp.com/avatars/255351562807803904/074fc8c4a3d3b2d842f1340ba4a9c316.png'
 
 Config.font = {
 	name 	= 'Montserrat',
