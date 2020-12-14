@@ -2,7 +2,7 @@ Config = {}
 
 Config.Locale = 'br'
 
-Config.serverLogo = 'https://cdn.discordapp.com/avatars/255351562807803904/074fc8c4a3d3b2d842f1340ba4a9c316.png'
+Config.serverLogo = 'https://sync-eye.tk/assets/images/avatar_plavo.png'
 
 Config.font = {
 	name 	= 'Montserrat',
