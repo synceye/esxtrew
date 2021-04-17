@@ -1,6 +1,6 @@
 Config = {}
 
-Config.Locale = 'br'
+Config.Locale = 'en'
 
 Config.serverLogo = 'https://sync-eye.tk/assets/images/avatar_plavo.png'
 
